@@ -1,7 +1,7 @@
 # Crud API using Nodejs and PostgreSQL
 
 ## Steps:
-1. Create a .sql file to create your DB Schema (dabatase.sql)
+1. Create a .sql file to create your Database Schema (dabatase.sql)
 
 ```
     CREATE DATABASE perntodo;
